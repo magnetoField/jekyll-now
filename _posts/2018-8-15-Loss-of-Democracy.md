@@ -6,19 +6,13 @@ permalink: /loss-of-democracy/
 source-id: 1VE9cxm3D1xOWIYCr9pOqhoaSjcuqLftSRvoW8bPCzqk
 published: true
 ---
-UNDERMINE THOUGHTS
-
-**HOW THINGS CAN GO WRONG**
-
-WHY FREEDOM IS IMPORTANT
-
-![image alt text]({{ site.url }}/public/L5LBgmBw9PXIyyZIALDw_img_0.png)
-
-# ![image alt text]({{ site.url }}/public/L5LBgmBw9PXIyyZIALDw_img_1.jpg)
 
 # Introduction
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan.
+![image alt text]({{ site.url }}/public/L5LBgmBw9PXIyyZIALDw_img_0.png)
+
+# ![image alt text]({{ site.url }}/public/L5LBgmBw9PXIyyZIALDw_img_1.jpg)
 
 ## Lorem ipsum
 
